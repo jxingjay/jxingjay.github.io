@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jxingjay.github.io</id>
     <title>懒拖和傻淘</title>
-    <updated>2020-04-21T09:04:53.770Z</updated>
+    <updated>2020-04-21T09:14:35.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jxingjay.github.io"/>
     <link rel="self" href="https://jxingjay.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://jxingjay.github.io/images/avatar.png</logo>
     <icon>https://jxingjay.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 懒拖和傻淘</rights>
+    <entry>
+        <title type="html"><![CDATA[笔记本新增固态硬盘后，无法同时识别到两个硬盘的解决方法]]></title>
+        <id>https://jxingjay.github.io/post/bi-ji-ben-xin-zeng-gu-tai-ying-pan-hou-wu-fa-tong-shi-shi-bie-dao-liang-ge-ying-pan-de-jie-jue-fang-fa/</id>
+        <link href="https://jxingjay.github.io/post/bi-ji-ben-xin-zeng-gu-tai-ying-pan-hou-wu-fa-tong-shi-shi-bie-dao-liang-ge-ying-pan-de-jie-jue-fang-fa/">
+        </link>
+        <updated>2020-04-21T09:06:30.000Z</updated>
+        <content type="html"><![CDATA[<p>朋友的老电脑新装固态硬盘，原机械硬盘装到光驱位。<br>
+固态硬盘装好系统后，在光驱位插入机械硬盘。开机却发现启动的是机械硬盘的系统。打开BIOS竟然看不到有固态硬盘的信息。<br>
+然后突然冒出个想法，电脑有可能识别是的后插入的硬盘。于是让朋友把固态硬盘拆了后开关机一次，然后再把固态硬盘装回去，结果还真得就可以正常启动了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Edge Chromium 开启沉浸式阅读]]></title>
         <id>https://jxingjay.github.io/post/edge-chromium-kai-qi-chen-jin-shi-yue-du/</id>
