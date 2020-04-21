@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jxingjay.github.io</id>
     <title>懒拖和傻淘</title>
-    <updated>2020-04-21T08:38:06.091Z</updated>
+    <updated>2020-04-21T08:43:23.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jxingjay.github.io"/>
     <link rel="self" href="https://jxingjay.github.io/atom.xml"/>
-    <subtitle>温故知新</subtitle>
+    <subtitle>工控新人笔记</subtitle>
     <logo>https://jxingjay.github.io/images/avatar.png</logo>
     <icon>https://jxingjay.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 懒拖和傻淘</rights>
