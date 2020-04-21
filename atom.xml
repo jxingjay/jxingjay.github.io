@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jxingjay.github.io</id>
     <title>懒拖和傻淘</title>
-    <updated>2020-04-21T08:53:16.425Z</updated>
+    <updated>2020-04-21T09:00:03.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jxingjay.github.io"/>
     <link rel="self" href="https://jxingjay.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://jxingjay.github.io/images/avatar.png</logo>
     <icon>https://jxingjay.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 懒拖和傻淘</rights>
+    <entry>
+        <title type="html"><![CDATA[Edge Chromium 开启沉浸式阅读]]></title>
+        <id>https://jxingjay.github.io/post/edge-chromium-kai-qi-chen-jin-shi-yue-du/</id>
+        <link href="https://jxingjay.github.io/post/edge-chromium-kai-qi-chen-jin-shi-yue-du/">
+        </link>
+        <updated>2020-04-21T08:53:35.000Z</updated>
+        <content type="html"><![CDATA[<p>在网址栏输入 Edge://flags/#edge-reading-view-reading-preferences ，然后将其默认选项修改为 Enabled 重启即可开启。<br>
+<img src="https://jxingjay.github.io/post-images/1587459462802.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[调试步进电机的时候留意步距角]]></title>
         <id>https://jxingjay.github.io/post/diao-shi-bu-jin-dian-ji-de-shi-hou-liu-yi-bu-ju-jiao/</id>
