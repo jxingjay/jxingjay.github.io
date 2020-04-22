@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jxingjay.github.io</id>
     <title>懒拖和傻淘</title>
-    <updated>2020-04-21T09:27:08.367Z</updated>
+    <updated>2020-04-22T01:03:13.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jxingjay.github.io"/>
     <link rel="self" href="https://jxingjay.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://jxingjay.github.io/images/avatar.png</logo>
     <icon>https://jxingjay.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 懒拖和傻淘</rights>
+    <entry>
+        <title type="html"><![CDATA[OneNote2016的同步问题]]></title>
+        <id>https://jxingjay.github.io/post/onenote2016-de-tong-bu-wen-ti/</id>
+        <link href="https://jxingjay.github.io/post/onenote2016-de-tong-bu-wen-ti/">
+        </link>
+        <updated>2020-04-22T01:01:15.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://jxingjay.github.io/post-images/1587517309545.jpg" alt="" loading="lazy"><br>
+进图中这个位置，点开无法同步的笔记本，过一会儿就同步成功了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[笔记本新增固态硬盘后，无法同时识别到两个硬盘的解决方法]]></title>
         <id>https://jxingjay.github.io/post/bi-ji-ben-xin-zeng-gu-tai-ying-pan-hou-wu-fa-tong-shi-shi-bie-dao-liang-ge-ying-pan-de-jie-jue-fang-fa/</id>
